@@ -17,3 +17,4 @@
 >
 > 类和对象
 > > * [属性和字段](https://github.com/RxKotlin/KotlinChina/wiki/属性和字段)
+> > * [接口](https://github.com/RxKotlin/KotlinChina/wiki/接口)
