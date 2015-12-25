@@ -16,5 +16,6 @@
 > > * [返回和跳转](https://github.com/RxKotlin/KotlinChina/wiki/返回和跳转)
 >
 > 类和对象
+> > * [类与继承](https://github.com/RxKotlin/KotlinChina/wiki/类与继承)
 > > * [属性和字段](https://github.com/RxKotlin/KotlinChina/wiki/属性和字段)
 > > * [接口](https://github.com/RxKotlin/KotlinChina/wiki/接口)
