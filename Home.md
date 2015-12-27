@@ -19,3 +19,4 @@
 > > * [类与继承](https://github.com/RxKotlin/KotlinChina/wiki/类与继承)
 > > * [属性和字段](https://github.com/RxKotlin/KotlinChina/wiki/属性和字段)
 > > * [接口](https://github.com/RxKotlin/KotlinChina/wiki/接口)
+> > * [访问修饰符](https://github.com/RxKotlin/KotlinChina/wiki/访问修饰符)
