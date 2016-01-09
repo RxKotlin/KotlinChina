@@ -24,3 +24,4 @@
 > > * [数据类](https://github.com/RxKotlin/KotlinChina/wiki/数据类)
 > > * [泛型](https://github.com/RxKotlin/KotlinChina/wiki/泛型)
 > > * [嵌套类](https://github.com/RxKotlin/KotlinChina/wiki/嵌套类)
+> > * [枚举类](https://github.com/RxKotlin/KotlinChina/wiki/枚举类)
