@@ -21,4 +21,5 @@
 > > * [接口](https://github.com/RxKotlin/KotlinChina/wiki/接口)
 > > * [访问修饰符](https://github.com/RxKotlin/KotlinChina/wiki/访问修饰符)
 > > * [扩展](https://github.com/RxKotlin/KotlinChina/wiki/扩展)
+> > * [数据类](https://github.com/RxKotlin/KotlinChina/wiki/数据类)
 > > * [泛型](https://github.com/RxKotlin/KotlinChina/wiki/泛型)
