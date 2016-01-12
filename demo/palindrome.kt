@@ -4,11 +4,11 @@
 
 fun main(args: Array<String>) {
     if (args.size > 0) {
-        isPalindrome(args[0])
+        println(isPalindrome(args[0]))
     }
 }
 
 fun isPalindrome(str: String): Boolean {
-    println(str)
-    return true
+    val reversedStr = str.reversed()
+    return str.equals(reversedStr)
 }
